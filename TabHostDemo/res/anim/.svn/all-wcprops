@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim
+END
+left_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/left_in.xml
+END
+slide_left_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/slide_left_in.xml
+END
+left_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/left_out.xml
+END
+slide_left_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/slide_left_out.xml
+END
+right_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/right_in.xml
+END
+slide_right_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/slide_right_in.xml
+END
+right_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/right_out.xml
+END
+slide_right_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/slide_right_out.xml
+END
+translucent_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/translucent_exit.xml
+END
+translucent_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/andli0626/Android_UI.git/!svn/ver/1/trunk/UI%E6%8E%A7%E4%BB%B6/Tab%E9%80%89%E9%A1%B9%E5%8D%A1/TabHostDemo/res/anim/translucent_enter.xml
+END
